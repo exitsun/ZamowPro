@@ -1,6 +1,7 @@
 # ZamowPro
+
 B2B B2C platform project
 
-# Notes
+## Notes
 
-React, Superbase, GoogleApi (sheets), 
+React, Superbase, GoogleApi (sheets),
